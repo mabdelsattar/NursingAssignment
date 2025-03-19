@@ -1,0 +1,54 @@
+{
+  "request_id": "e1267ee0-9f6e-4124-ac7f-498c13777368",
+  "request_time": "2024-03-31T21:08:16.628403+00:00",
+  "employees_assignments": [
+    {
+      "name": "Amber Matthews",
+      "visits": [
+        {
+          "request_name": "Johnny Garcia",
+          "visit_duration": 135.29049436166653
+        },
+        {
+          "request_name": "Walter Dunlap",
+          "visit_duration": 59.60236500455187
+        },
+        {
+          "request_name": "Shelby Alvarado",
+          "visit_duration": 118.15419934935531
+        },
+        {
+          "request_name": "Dr. Ashley Hernandez MD",
+          "visit_duration": 14.70209904094377
+        },
+        {
+          "request_name": "Dillon Curtis",
+          "visit_duration": 135.29049436166653
+        },
+        {
+          "request_name": "Andrea Stevens",
+          "visit_duration": 0
+        },
+        {
+          "request_name": "Johnny Jackson",
+          "visit_duration": 57.74019836759506
+        },
+        {
+          "request_name": "Todd Bradley",
+          "visit_duration": 118.15419934935531
+        }
+      ],
+      "Total visit time": 638.9340498351344
+    },
+    {
+      "name": "Luis Robinson",
+      "visits": [
+        {
+          "request_name": "Angela Morales",
+          "visit_duration": 236.1175851825483
+        }
+      ],
+      "Total visit time": 236.1175851825483
+    }
+  ]
+}
